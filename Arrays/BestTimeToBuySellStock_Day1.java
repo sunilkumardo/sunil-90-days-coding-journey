@@ -37,7 +37,7 @@ public class BestTimeToBuySellStock_Day1 {
         return maxProfit;
     }
 
-    // ✅ Main method for testing
+    //  Main method for testing
     public static void main(String[] args) {
 
         BestTimeToBuySellStock_Day1 obj = new BestTimeToBuySellStock_Day1();
